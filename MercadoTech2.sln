@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercadoTech2", "MercadoTech2\MercadoTech2.csproj", "{F751994A-48BF-4177-A9DD-3E101FAD39CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{A2973AFE-CC42-4BA0-88B1-8EA27583382E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F751994A-48BF-4177-A9DD-3E101FAD39CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F751994A-48BF-4177-A9DD-3E101FAD39CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F751994A-48BF-4177-A9DD-3E101FAD39CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F751994A-48BF-4177-A9DD-3E101FAD39CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2973AFE-CC42-4BA0-88B1-8EA27583382E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2973AFE-CC42-4BA0-88B1-8EA27583382E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2973AFE-CC42-4BA0-88B1-8EA27583382E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2973AFE-CC42-4BA0-88B1-8EA27583382E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BDD224-69AF-47EF-85A6-C35854C63B4D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\bin\Debug\netcoreapp3.1\Negocio.runtimeconfig.json
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\bin\Debug\netcoreapp3.1\Negocio.runtimeconfig.dev.json
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\Win10\Documents\Exercicios\MercadoTech2\MercadoTech2\Negocio\obj\Debug\netcoreapp3.1\Negocio.genruntimeconfig.cache
